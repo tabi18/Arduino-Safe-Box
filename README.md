@@ -28,6 +28,12 @@
 
 <img width="20%" src="Safe box project/media/1.jpeg">
 <img width="20%" src="Safe box project/media/2.jpeg">
+
+
+https://github.com/tabi18/Arduino-Safe-Box/assets/128082520/4d5236fe-e1d4-4e85-b893-ff49b03ac9f9
+
+
+
 https://user-images.githubusercontent.com/128082520/227792544-e5960ba1-622b-4247-ad69-febeb39071d1.mp4
 
 
