@@ -4,8 +4,8 @@
   </p>
   <b><h1> Arduino Safe Box </h1></b>
   <br>
-  <h4>Hi! This is my first arduino project. I had a lot of fun making it and I'm looking forward to making more interesting projects!</h4>
-  <h4>I made a safe box using an arduino starter kit, some cardboard and a little bit of passion.</h4>
+  
+  <h4>The safe box uses an Arduino Uno to control it's operations, a servomotor used as a locking mechanism, an LCD presenting relevant information and feedback, a membrane switch module as the input interface for user interaction and a buzzer that provides audio notifications.</h4>
   </div>
 <br>
 
